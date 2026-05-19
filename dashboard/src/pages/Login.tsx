@@ -73,7 +73,7 @@ export default function Login() {
               <button
                 type="button"
                 onClick={() => setShowPwd(!showPwd)}
-                style={{ position: 'absolute', right: 12, top: '50%', transform: 'translateY(-50%)', color: 'var(--text-muted)', lineHeight: 0 }}
+                style={{ position: 'absolute', right: 40, top: '50%', transform: 'translateY(-50%)', color: 'var(--text-muted)', lineHeight: 0 }}
               >
                 {showPwd ? <EyeOff size={16} /> : <Eye size={16} />}
               </button>
