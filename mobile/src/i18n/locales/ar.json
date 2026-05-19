@@ -1,0 +1,112 @@
+{
+  "common": {
+    "back": "رجوع",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "loading": "جار التحميل...",
+    "error": "خطأ",
+    "ok": "موافق"
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "signOut": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "لديك حساب بالفعل؟",
+    "createAccount": "إنشاء حساب",
+    "sendResetLink": "إرسال رابط الاستعادة",
+    "forgotPasswordTitle": "نسيت كلمة المرور",
+    "forgotPasswordSubtitle": "أدخل بريدك الإلكتروني وسنرسل لك رابط إعادة التعيين.",
+    "joinToday": "انضم إلى Mini Shop اليوم",
+    "signInToContinue": "سجّل دخولك للمتابعة",
+    "emailPlaceholder": "بريدك@example.com",
+    "passwordPlaceholder": "••••••••",
+    "errors": {
+      "fillAll": "يرجى تعبئة جميع الحقول",
+      "passwordLength": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+      "invalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+      "registrationFailed": "فشل إنشاء الحساب",
+      "rateLimit": "طلبات كثيرة جداً. يرجى الانتظار بضع دقائق والمحاولة مجدداً.",
+      "resetFailed": "فشل إرسال بريد الاستعادة"
+    },
+    "success": {
+      "accountCreated": "تم إنشاء الحساب! تحقق من بريدك للتفعيل.",
+      "resetSent": "تم إرسال البريد! تحقق من صندوق الوارد."
+    }
+  },
+  "shop": {
+    "title": "ميني شوب",
+    "subtitle": "اكتشف المنتجات",
+    "searchPlaceholder": "ابحث عن منتجات...",
+    "noProducts": "لا توجد منتجات",
+    "noProductsSubtitle": "جرّب بحثاً أو تصنيفاً مختلفاً"
+  },
+  "cart": {
+    "title": "السلة",
+    "empty": "سلتك فارغة",
+    "emptySubtitle": "أضف منتجات من المتجر",
+    "browseShop": "تصفح المتجر",
+    "total": "الإجمالي",
+    "placeOrder": "تأكيد الطلب",
+    "placingOrder": "جار إرسال الطلب...",
+    "clear": "مسح",
+    "confirmOrder": "تأكيد الطلب",
+    "confirmMessage": "تأكيد طلب بقيمة {{amount}}؟",
+    "orderNow": "اطلب الآن",
+    "success": "تم تقديم طلبك بنجاح!",
+    "addedToCart": "تمت إضافة {{name}} إلى السلة",
+    "errors": {
+      "failed": "فشل تقديم الطلب"
+    }
+  },
+  "orders": {
+    "title": "طلباتي",
+    "orders": "طلب",
+    "empty": "لا توجد طلبات بعد",
+    "emptySubtitle": "ستظهر طلباتك هنا بعد إتمامها",
+    "items": "{{count}} عنصر",
+    "items_other": "{{count}} عناصر",
+    "moreItems": "+{{count}} عناصر أخرى",
+    "status": {
+      "pending": "قيد الانتظار",
+      "processing": "جار المعالجة",
+      "shipped": "تم الشحن",
+      "delivered": "تم التوصيل",
+      "cancelled": "ملغي"
+    }
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "myOrders": "طلباتي",
+    "cart": "السلة",
+    "signOut": "تسجيل الخروج",
+    "admin": "مسؤول",
+    "customer": "عميل",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "dark": "داكن",
+    "light": "فاتح",
+    "system": "تلقائي",
+    "signedOut": "تم تسجيل الخروج"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "description": "الوصف",
+    "notFound": "المنتج غير موجود",
+    "goBack": "العودة",
+    "price": "السعر",
+    "continueShopping": "مواصلة التسوق",
+    "goToCart": "اذهب إلى السلة"
+  },
+  "tabs": {
+    "shop": "المتجر",
+    "cart": "السلة",
+    "orders": "الطلبات",
+    "profile": "الملف"
+  }
+}

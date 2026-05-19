@@ -1,0 +1,112 @@
+{
+  "common": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Error",
+    "ok": "OK"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "sendResetLink": "Send Reset Link",
+    "forgotPasswordTitle": "Forgot Password",
+    "forgotPasswordSubtitle": "Enter your email and we'll send you a reset link.",
+    "joinToday": "Join Mini Shop today",
+    "signInToContinue": "Sign in to continue",
+    "emailPlaceholder": "your@email.com",
+    "passwordPlaceholder": "••••••••",
+    "errors": {
+      "fillAll": "Please fill in all fields",
+      "passwordLength": "Password must be at least 8 characters",
+      "invalidCredentials": "Invalid email or password",
+      "registrationFailed": "Registration failed",
+      "rateLimit": "Too many signups. Please wait a few minutes and try again.",
+      "resetFailed": "Failed to send reset email"
+    },
+    "success": {
+      "accountCreated": "Account created! Check your email to verify.",
+      "resetSent": "Reset email sent! Check your inbox."
+    }
+  },
+  "shop": {
+    "title": "Mini Shop",
+    "subtitle": "Discover products",
+    "searchPlaceholder": "Search products...",
+    "noProducts": "No products found",
+    "noProductsSubtitle": "Try a different search or category"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "emptySubtitle": "Add items from the shop",
+    "browseShop": "Browse Shop",
+    "total": "Total",
+    "placeOrder": "Place Order",
+    "placingOrder": "Placing order...",
+    "clear": "Clear",
+    "confirmOrder": "Confirm Order",
+    "confirmMessage": "Place order for {{amount}}?",
+    "orderNow": "Order Now",
+    "success": "Order placed successfully!",
+    "addedToCart": "{{name}} added to cart",
+    "errors": {
+      "failed": "Failed to place order"
+    }
+  },
+  "orders": {
+    "title": "My Orders",
+    "orders": "orders",
+    "empty": "No orders yet",
+    "emptySubtitle": "Your placed orders will appear here",
+    "items": "{{count}} item",
+    "items_other": "{{count}} items",
+    "moreItems": "+{{count}} more items",
+    "status": {
+      "pending": "Pending",
+      "processing": "Processing",
+      "shipped": "Shipped",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "myOrders": "My Orders",
+    "cart": "Cart",
+    "signOut": "Sign Out",
+    "admin": "Admin",
+    "customer": "Customer",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "signedOut": "Signed out"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "description": "Description",
+    "notFound": "Product not found",
+    "goBack": "Go back",
+    "price": "Price",
+    "continueShopping": "Continue Shopping",
+    "goToCart": "Go to Cart"
+  },
+  "tabs": {
+    "shop": "Shop",
+    "cart": "Cart",
+    "orders": "Orders",
+    "profile": "Profile"
+  }
+}
